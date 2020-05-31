@@ -10,3 +10,4 @@ class HttpHelper():
         """(dict, status) Returns a default success dict with a specified data."""
         return {'success': True, 'data': data}, 200
         
+    
